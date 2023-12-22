@@ -1,0 +1,7 @@
+{
+  "category.hide_chat_box" : "Chat Visibility",
+  "key.chat_visibility": "Change Chat Visibility",
+  "key.chat_visibility_hidden": "Chat Visibility - HIDDEN",
+  "key.chat_visibility_system": "Chat Visibility - SYSTEM",
+  "key.chat_visibility_full": "Chat Visibility - FULL"
+}
